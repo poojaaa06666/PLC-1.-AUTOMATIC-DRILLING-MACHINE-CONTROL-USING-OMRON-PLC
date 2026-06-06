@@ -78,7 +78,7 @@ Machine Run Bit	W0.00
 
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dde25e87-cd8a-4a29-ac39-21e21e3b0c94" />
+<img width="1820" height="864" alt="ChatGPT Image Jun 6, 2026, 02_15_38 PM" src="https://github.com/user-attachments/assets/939ff81b-4723-49c8-89b0-e19f0d20f48c" />
 
 
 
